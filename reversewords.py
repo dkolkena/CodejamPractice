@@ -1,5 +1,6 @@
 # Google Code Jam Practice Mode
 # Qualification Round Africa 2010 - B. Reverse Words
+# https://code.google.com/codejam/contest/351101/dashboard#s=p1
 
 # Problem
 
